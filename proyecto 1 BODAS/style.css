@@ -1,0 +1,56 @@
+h1 {
+  color: white;
+  /* width: 500px; */
+  font-family: "Imperial Script", cursive;
+  font-style: italic;
+  border-style: solid;
+  border-color: aliceblue;
+}
+.apellido {
+  font-weight: bold;
+  color: aqua;
+}
+h2 {
+  display: inline-block;
+  margin: 0px 120px;
+  box-sizing: border-box;
+}
+.presents {
+  background: url(./images/presents/background.jpg);
+  background-size: contain;
+  background-size: 40%;
+}
+.food {
+  background: url(./images/food/background_food.jpg);
+  background-size: 40%;
+  background-repeat: no-repeat;
+  background-position: bottom 5px right 100px;
+}
+img {
+  width: 500px;
+
+  margin: 10px 120px;
+  /* display: inline; */
+}
+.bendicion {
+  color: #86baa1;
+  width: 500px;
+  border-style: solid;
+  border-color: aliceblue;
+}
+.boda {
+  /* margin-right: -100px; */
+  color: #86baa1;
+  width: 500px;
+  border-style: solid;
+  border-color: aliceblue;
+}
+h2,
+h1 {
+  background-color: #a0e8af;
+  font-family: "Imperial Script", cursive;
+  text-align: center;
+}
+body {
+  background-color: #3ab795;
+}
