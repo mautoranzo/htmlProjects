@@ -6,32 +6,38 @@ h1 {
   border-style: solid;
   border-color: aliceblue;
 }
+
 .apellido {
   font-weight: bold;
   color: aqua;
 }
+
 h2 {
   display: inline-block;
   margin: 0px 120px;
   box-sizing: border-box;
 }
+
 .presents {
   background: url(./images/presents/background.jpg);
   background-size: contain;
   background-size: 40%;
 }
+
 .food {
   background: url(./images/food/background_food.jpg);
-  background-size: 40%;
+  background-size: 30%;
   background-repeat: no-repeat;
-  background-position: bottom 5px right 100px;
+  background-position: 50% 200%;
 }
+
 img {
   width: 500px;
 
   margin: 10px 120px;
   /* display: inline; */
 }
+
 .bendicion {
   color: #86baa1;
   width: 500px;
